@@ -12,6 +12,9 @@ In order to control a mower, the gardener sends a simple string of letters. The 
 
 Assume that the square directly North from (x, y) is (x, y+1).
 
+## Requirements
+.NET Core 3.1
+
 ## Usage
 `> dotnet build` will restore packages and build the application
 
